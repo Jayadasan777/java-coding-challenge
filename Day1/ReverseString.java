@@ -1,5 +1,5 @@
 //Question-https://leetcode.com/problems/reverse-string/description/
-class Solution {
+class ReverseString {
     public void reverseString(char[] s) {
         int left =0;
         int ryt =s.length-1;
